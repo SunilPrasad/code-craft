@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "codecrafters-http-server": {
+      "commandName": "Project",
+      "commandLineArgs": "--directory C:\\codecraftcode"
+    }
+  }
+}
